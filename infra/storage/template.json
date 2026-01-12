@@ -24,8 +24,6 @@
                 "defaultToOAuthAuthentication": false,
                 "publicNetworkAccess": "Enabled",
                 "allowCrossTenantReplication": false,
-                "isLocalUserEnabled": true,
-                "isSftpEnabled": true,
                 "minimumTlsVersion": "TLS1_2",
                 "allowBlobPublicAccess": false,
                 "allowSharedKeyAccess": true,
